@@ -14,11 +14,9 @@ The primary goals of this study include:
 - Enhancing programming skills through weekly problem-solving.
 - Providing constructive feedback through code reviews.
 
-### ⚙️ How It Works
+### ⚙️ Commit message Rule
 
-1. Solve the weekly problems individually.
-2. Upload your solution to your branch in this repository.
-3. Create a Pull Request for code reviews and feedback.
+commit 메세지: [문제출처] 난이도 / 문제 걸린시간
 
 ### 📅 Weekly Schedule
 
