@@ -18,7 +18,7 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdahyeon977"><b>김다현</b></td>
-    <td align="center"><a href="https://github.com/jiyehyeon"><b>오예성</b></td>
+    <td align="center"><a href="https://github.com/yeseong33"><b>오예성</b></td>
     <td align="center"><a href="https://github.com/jungminii"><b>정민</b></td>
     <td align="center"><a href="https://github.com/thsamajiki"><b>thsamajiki</b></td>
     <td align="center"><a href="https://github.com/POKUDING"><b>박준형</b></td>
