@@ -51,7 +51,7 @@ The primary goals of this study include:
 
 ### ⚙️ Commit message Rule
 
-commit 메세지: [문제출처] 난이도 / 문제 걸린시간
+commit 메세지: [문제출처] 문제이름 / 난이도 / 문제 걸린시간
 
 ### 📅 Weekly Schedule
 
