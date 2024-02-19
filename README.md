@@ -10,7 +10,6 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/kimdahyeon977"><img src="https://avatars.githubusercontent.com/kimdahyeon977" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/yeseong33"><img src="https://avatars.githubusercontent.com/yeseong33" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/jungminii"><img src="https://avatars.githubusercontent.com/jungminii" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/thsamajiki"><img src="https://avatars.githubusercontent.com/thsamajiki" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/POKUDING"><img src="https://avatars.githubusercontent.com/POKUDING" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/youngjinhan"><img src="https://avatars.githubusercontent.com/youngjinhan" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/ulsandonghun"><img src="https://avatars.githubusercontent.com/ulsandonghun" width="150px;" alt=""></td>
@@ -20,7 +19,6 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/kimdahyeon977"><b>김다현</b></td>
     <td align="center"><a href="https://github.com/yeseong33"><b>오예성</b></td>
     <td align="center"><a href="https://github.com/jungminii"><b>정민</b></td>
-    <td align="center"><a href="https://github.com/thsamajiki"><b>thsamajiki</b></td>
     <td align="center"><a href="https://github.com/POKUDING"><b>박준형</b></td>
     <td align="center"><a href="https://github.com/youngjinhan"><b>한영진</b></td>
     <td align="center"><a href="https://github.com/ulsandonghun"><b>최동훈</b></td>
@@ -30,7 +28,6 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">C++</td>
-    <td align="center">Java</td>
     <td align="center">C++</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
