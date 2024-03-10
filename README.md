@@ -14,6 +14,7 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/youngjinhan"><img src="https://avatars.githubusercontent.com/youngjinhan" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/ulsandonghun"><img src="https://avatars.githubusercontent.com/ulsandonghun" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/ylab604"><img src="https://avatars.githubusercontent.com/ylab604" width="150px;" alt=""></td>
+     <td align="center"><a href="https://github.com/kyeonkim"><img src="https://avatars.githubusercontent.com/kyeonkim" width="150px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdahyeon977"><b>김다현</b></td>
@@ -23,12 +24,14 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/youngjinhan"><b>한영진</b></td>
     <td align="center"><a href="https://github.com/ulsandonghun"><b>최동훈</b></td>
     <td align="center"><a href="https://github.com/ylab604"><b>전승진</b></td>
+    <td align="center"><a href="https://github.com/ylab604"><b>김경민</b></td>
   </tr>
   <tr> 
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">C++</td>
     <td align="center">C++</td>
+    <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
@@ -58,6 +61,10 @@ and meet with every Sunday 10 p.m on discord channel.
 ### 📚 Problem Sources
 
 We explore problems from various online judges. You can find the list of problems and their sources in each week's README.
+
+### 🎯 Update
+
+다현 > 영진 > 예성 > 정민 > 동훈 > 준형 > 승진 > 경민
 
 ---
 | 주차   | 알고리즘                                     | 기출 유형                    | 문제명                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 난이도                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |풀이 여부                 | readme |
