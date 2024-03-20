@@ -24,7 +24,7 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/youngjinhan"><b>한영진</b></td>
     <td align="center"><a href="https://github.com/ulsandonghun"><b>최동훈</b></td>
     <td align="center"><a href="https://github.com/ylab604"><b>전승진</b></td>
-    <td align="center"><a href="https://github.com/ylab604"><b>김경민</b></td>
+    <td align="center"><a href="https://github.com/kyeonkim"><b>김경민(kyeonkim)</b></td>
   </tr>
   <tr> 
     <td align="center">Python</td>
