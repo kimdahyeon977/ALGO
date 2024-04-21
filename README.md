@@ -30,7 +30,7 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">C++</td>
-    <td align="center">C++</td>
+    <td align="center">C++/JAVA</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
     <td align="center">Python</td>
