@@ -12,7 +12,6 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/jungminii"><img src="https://avatars.githubusercontent.com/jungminii" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/POKUDING"><img src="https://avatars.githubusercontent.com/POKUDING" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/youngjinhan"><img src="https://avatars.githubusercontent.com/youngjinhan" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/ulsandonghun"><img src="https://avatars.githubusercontent.com/ulsandonghun" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/ylab604"><img src="https://avatars.githubusercontent.com/ylab604" width="150px;" alt=""></td>
      <td align="center"><a href="https://github.com/kyeonkim"><img src="https://avatars.githubusercontent.com/kyeonkim" width="150px;" alt=""></td>
   </tr>
@@ -22,7 +21,6 @@ Welcome to our Awesome Algorithm Study repository! This is a collaborative space
     <td align="center"><a href="https://github.com/jungminii"><b>정민</b></td>
     <td align="center"><a href="https://github.com/POKUDING"><b>박준형</b></td>
     <td align="center"><a href="https://github.com/youngjinhan"><b>한영진</b></td>
-    <td align="center"><a href="https://github.com/ulsandonghun"><b>최동훈</b></td>
     <td align="center"><a href="https://github.com/ylab604"><b>전승진</b></td>
     <td align="center"><a href="https://github.com/kyeonkim"><b>김경민(kyeonkim)</b></td>
   </tr>
@@ -64,7 +62,7 @@ We explore problems from various online judges. You can find the list of problem
 
 ### 🎯 Update
 
-다현 > 영진 > 예성 > 정민 > 동훈 > 준형 > 승진 > 경민
+다현 > 영진 > 예성 > 정민 > 준형 > 승진 > 경민
 
 ---
 | 주차   | 알고리즘                                     | 기출 유형                    | 문제명                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 난이도                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |풀이 여부                 | readme |
